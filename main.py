@@ -18,8 +18,14 @@ def main():
                     item["Item Name:"] = val[0].strip()
                     item["Type:"] = val[1].strip()
                     item["Rarity:"] = val[2].strip()
-                    item["Quantity"] = int(val[3])
-                    item["Gold Value:"] = int(val[4])
+                    try:
+                        item["Quantity"] = int(val[3])
+                    except ValueError:
+                        print("Quantity must contain a whole number")
+                    try:
+                        item["Gold Value:"] = int(val[4])
+                    except:
+                        print("Gold Values must contain a whole number")
 
                     inventory.append(item)
                     item = {}
