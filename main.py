@@ -15,9 +15,9 @@ def main():
                     continue
                 else:
                     val = clean_line.split("|")
-                    item["Item Name:"] = val[0]
-                    item["Type:"] = val[1]
-                    item["Rarity:"] = val[2]
+                    item["Item Name:"] = val[0].strip()
+                    item["Type:"] = val[1].strip()
+                    item["Rarity:"] = val[2].strip()
                     item["Quantity"] = int(val[3])
                     item["Gold Value:"] = int(val[4])
 
