@@ -1,3 +1,3 @@
 Program reads from txt file and stores values in a list of dictionaries before dumping the values into a json file.
-Program handles blank lines and malformed lines that do not have the required number of "|"
+Program handles blank lines and malformed lines that do not have the required number of "|". Also handles cases where a non int value is in quantity or gold value.
 Program does not account for miss spelled words or other typos which can lead to complete garbage being stored...
