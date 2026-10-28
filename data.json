@@ -1,0 +1,58 @@
+[
+    {
+        "Item Name:": "Dimond Sword ",
+        "Type:": " Weapon ",
+        "Rarity:": " Rare ",
+        "Quantity": 5,
+        "Gold Value:": 500
+    },
+    {
+        "Item Name:": "Iron Sword ",
+        "Type:": " Weapon ",
+        "Rarity:": " Common ",
+        "Quantity": 15,
+        "Gold Value:": 100
+    },
+    {
+        "Item Name:": "Health Potion ",
+        "Type:": " Consumable ",
+        "Rarity:": " Common ",
+        "Quantity": 5,
+        "Gold Value:": 25
+    },
+    {
+        "Item Name:": "Dragon Scale ",
+        "Type:": " Material ",
+        "Rarity:": " Legendary ",
+        "Quantity": 1,
+        "Gold Value:": 2500
+    },
+    {
+        "Item Name:": "Shadow Dagger ",
+        "Type:": " Weapon ",
+        "Rarity:": " Epic ",
+        "Quantity": 42,
+        "Gold Value:": 1200
+    },
+    {
+        "Item Name:": "Mana Potion ",
+        "Type:": " Consumable ",
+        "Rarity:": " Uncommon ",
+        "Quantity": 8,
+        "Gold Value:": 60
+    },
+    {
+        "Item Name:": "Phoenix Feather ",
+        "Type:": " Material ",
+        "Rarity:": " Legendary ",
+        "Quantity": 2,
+        "Gold Value:": 5000
+    },
+    {
+        "Item Name:": "Wooden Shield ",
+        "Type:": " Armor ",
+        "Rarity:": " Common ",
+        "Quantity": 8,
+        "Gold Value:": 75
+    }
+]

@@ -1,0 +1,12 @@
+Dimond Sword | Weapon | Rare | 5 | 500
+
+Iron Sword | Weapon | Common | 15 | 100
+
+Health Potion | Consumable | Common | 5 | 25
+
+Dragon Scale | Material | Legendary | 1 | 2500
+
+Shadow Dagger | Weapon | Epic | 42 | 1200
+Mana Potion | Consumable | Uncommon | 8 | 60
+Phoenix Feather | Material | Legendary | 2 | 5000
+Wooden Shield | Armor | Common | 8 | 75
